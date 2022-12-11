@@ -1,0 +1,45 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+.button{
+	width: 100px;
+	height: 100px;
+	font-size: 25px;
+	margin:2px;
+	background: #607d8b1c;
+	border-color: #D2691E;
+}
+#dot{
+	width: 206px;
+	height: 100px;
+	margin-left: -104px;
+}
+.textview{
+	width: 405px;
+	margin: 5px;
+	padding: 5px;
+	font-size: 25px;
+	border: none;
+	color: #522;
+}
+#zero{
+	width: 100px;
+}
+#equal{
+	margin: 2px, 2px;
+	width: 100px;
+	height: 206px;
+}
+.main{
+	position: absolute;
+	margin-left: 50%;
+	margin-top: 50vh;
+	transform:translateX(-50%) translateY(-50%);
+}
+.bg{
+	background-image: linear-gradient(to bottom right, #FFFF00, #FF4500);
+	height: 100vh;
+
+}
